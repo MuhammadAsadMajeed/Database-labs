@@ -12,3 +12,4 @@
 ## Challenges Faced
 - Faced path and command issues
 - Fixed by understanding directory structure
+- Practice pg_dump and database backups
