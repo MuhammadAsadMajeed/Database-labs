@@ -26,3 +26,6 @@ ORDER BY month;
 SELECT title, rating
 FROM books_read
 WHERE category = 'Machine Learning' AND rating >= 4.0;
+-- Query 6: Total number of books
+SELECT COUNT(*) AS total_books
+FROM books_read;
